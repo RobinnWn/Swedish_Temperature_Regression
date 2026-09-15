@@ -1,4 +1,6 @@
-# Multiple Linear Regression via the Normal Equation
+# Temperature Regression Analysis Workflow
+
+**Keywords:** `temperature-regression`, `reproducible-workflow`, `scikit-learn`, `FAIR data`
 
 A from-scratch implementation of multiple linear regression using the
 **normal equation**, applied to a Swedish weather-station dataset to model
@@ -104,5 +106,6 @@ This prints the fitted coefficients and the validation summary, and writes
 ## Requirements
 
 ```
+CSV
 numpy
 ```
