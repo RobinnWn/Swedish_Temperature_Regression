@@ -109,3 +109,11 @@ This prints the fitted coefficients and the validation summary, and writes
 CSV
 numpy
 ```
+## Discussion: Alignment with FAIR Data Principles
+* Findable: The workflow is published on a public GitHub repository with rich metadata, standardized topic tags and a structured README.md. Releases can be minted with a persistent Digital Object Identifier (DOI) via Zenodo integration.
+  
+* Accessible: All assets—code, datasets, and documentation—are hosted via standard open protocols.
+  
+* Interoperable: Data structures and code follow non-proprietary, community-standard schemas: CSV for tabular records. Variable (4 parameters) and expected value (temperature) are documented with clear scientific units, allowing seamless integration with external data pipelines.
+  
+* Reusable: Code and data are released under the permissive MIT License, clearly stating terms for community modification and redistribution. Exact execution environments are locked using environment.yml for version-pinned reproducibility alongside step-by-step documentation.
