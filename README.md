@@ -110,7 +110,8 @@ CSV
 numpy
 ```
 ## Discussion: Alignment with FAIR Data Principles
-* Findable: The workflow is published on a public GitHub repository with rich metadata, standardized topic tags and a structured README.md. 
+* Findable: The workflow is published on a public GitHub repository with rich metadata, standardized topic tags and a structured README.md.
+  DOI: 10.5281/zenodo.22779507
   
 * Accessible: All assets—code, datasets, and documentation—are hosted via standard open protocols.
   
